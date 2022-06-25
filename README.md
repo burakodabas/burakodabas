@@ -1,7 +1,9 @@
-### Hi 👋 I work as FullStack. I am developing mobile application and backend.
+### Hi 👋 I work as FullStack Engineer.
 
-- 🔭 I work as a freelancer.
-- 🌱 I develop mobile applications.
+- 🔭 Frontend Tech: React 💪(10/10), Angular🚀 (10/10), Vue 🪴(5/10)
+- 🔭 Backend: NodeJS, NestJs, PHP (Laravel 2-9 version, Codeigniter 3,4 version)
+- 📱 Mobile Tech: React Native 💯
+- 💾 Database: Mysql, PostgreSQL, MongoDb
+
 
 - 📫 How to reach me: ahmetburakodabas@gmail.com
-- ⚡ My hobbies; fitness, food and travel.
